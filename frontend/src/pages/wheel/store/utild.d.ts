@@ -1,0 +1,3 @@
+interface Foods {
+	name: string;
+}
